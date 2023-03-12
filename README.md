@@ -8,4 +8,5 @@ This is the dataset i created whilst undertaking the introduction to data and SQ
 * improving the hiring process
 
 ## Data visualisation 
-## Employee targets ![](images/company Dashboard 1.png)
+## Employee targets   
+![](images/company Dashboard 1.png)
