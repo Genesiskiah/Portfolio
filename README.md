@@ -8,4 +8,4 @@ This is the dataset i created whilst undertaking the introduction to data and SQ
 * improving the hiring process
 
 ## Data visualisation 
-![](icompany Dashboard 1.png)
+![](company Dashboard 1.png)
