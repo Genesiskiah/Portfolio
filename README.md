@@ -1,5 +1,5 @@
 # Genesis kiah data analytics portfolio  
-# [project 1: company database] (https://github.com/Genesiskiah/company-)
+# [project 1: company database](https://github.com/Genesiskiah/company-)
 
 This is the dataset i created whilst undertaking the introduction to data and SQL course with code first girls 
 
