@@ -25,3 +25,4 @@ in the second barchart **'Temporary employees vs permenant employees'** i showed
 
 ![HR data viz](hr dash.png)
 ![Airbnb viz](air b n b viz.png)
+![Video games viz](video games dash .png)
