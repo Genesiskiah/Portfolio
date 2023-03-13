@@ -24,4 +24,4 @@ in the second barchart **'Temporary employees vs permenant employees'** i showed
 ***Here you can browse at the other data visulisations i have created***
 
 ![HR data viz](hr dash.png)
-
+![Airbnb viz](air b n b viz.png)
