@@ -6,12 +6,15 @@ I began my self taught journey into data analytics july 2022, and since then i h
 
 # [project 1: company database](https://github.com/Genesiskiah/company-)
 
-This is the dataset i created whilst undertaking the introduction to data and SQL course with code first girls 
+This is the dataset i created whilst undertaking the introduction to data and SQL course with code first girls, i created a database for a recruitment company which contaings information focusing on the recruitment sector of the buisness, it was made to see how much interviews are being conducted by team members who are on a mixture of temporary and permenant contracts to see if the buisness targets are being met. 
 
-* in this dataset i created a company database 
-* i input information about the company database 
-* i used functions such as joins, stored procedures and 
+* In this dataset i created a company database 
+* I input information about the company database 
+* I used functions such as joins, stored procedures and views to answer buisness questions 
 
 ## Data visualisation 
 ![](code first girls dashboard png.png) 
 
+In this visulisation i used the **'Interviews complete vs interview targets'** barchart to showcase which team members were reaching there targets by indicatinig that with the green barchart on the visulization, i then used the grey barcharts to indicate which team members were not hitting there target however completing the minimum amount of interviews per week which was 50 interviews per week. and lastly the red is a indication of the people on the team who arem not reaching there targert along with not meeting the minumum weekly interview target. 
+
+in the second barchart **'Temporary employees vs permenant employees'** i showed which candidates were permenant and which candidates were temporary which in turn showed the temporary candidates are performing better than those with a permenant place on the team. in. this visulisation it showcases everyone who is meeting there target and those who are not. 
