@@ -23,5 +23,5 @@ in the second barchart **'Temporary employees vs permenant employees'** i showed
 
 ***Here you can browse at the other data visulisations i have created***
 
-![](Dashboard 1.pdf)
+![HR data viz](hr dash.png)
 
